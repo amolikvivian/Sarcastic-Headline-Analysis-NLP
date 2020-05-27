@@ -1,2 +1,8 @@
-# Sarcastic-Headline-Analysis-NLP
-NLP - Analysing news headlines using neural network for sarcasm.  
+# Natural Language Processing using Deep Learning
+
+# Model
+The neural network analyzes headline sentences from news articles and segregates into 
+- sarcastic / not sarcastic (1/0)
+
+# Dataset Reference
+https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
